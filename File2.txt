@@ -1,3 +1,5 @@
 Content2
 
 additional changes to file2
+
+v 2.0 changes
